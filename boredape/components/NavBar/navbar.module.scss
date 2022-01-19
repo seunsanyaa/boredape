@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+.container{
+  //background: black;
+  color: white;
+background: none;
+  padding: 1em 5.7em;
+}
+
+.menu{
+  display: flex;
+  align-items: center;
+  padding-right: 2em;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.menuLink{
+
+  font-family: "Montserrat";
+  padding-right: 3em;
+  display: flex;
+  align-items: center;
+}
+
+.dropdown{
+  align-items: center;
+  padding-left: 0.3em;
+}
+.changeBackground{
+  padding-right: 6.5em;
+}
+
+
+.connectWallet{
+
+
+  font-family: "Montserrat";
+
+  border: 1px solid;
+  border-image-slice: 1;
+  background: unset;
+  color: white;
+width: 12em;
+  height: 3.3em;
+border-bottom-right-radius: 30em;
+
+
+
+  //border-image-source: linear-gradient(rgba(218, 68, 83, 1), rgba(137, 33, 107, 1),rgba(196, 195, 195, 0.01) ,rgba(196, 196, 196, 0),rgba(137, 33, 107, 1),rgba(137, 33, 107, 1));
+  border-image-source:  linear-gradient(90.3deg, #DA4453 4.5%, #89216B 99.68%, rgba(196, 195, 195, 0.0104167) 99.69%, rgba(196, 196, 196, 0) 99.7%, #89216B 99.7%, #89216B 99.7%);
+
+
+
+
+}
