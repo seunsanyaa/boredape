@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import NavBar from "../components/NavBar/navbar";
 import Hero from "../components/Hero/hero";
+import NewReleases from "../components/NewReleases/newreleases";
 
 export default function Home() {
   return (
@@ -16,6 +17,9 @@ export default function Home() {
   <NavBar/>
 
   <Hero/>
+
+
+  <NewReleases/>
     </div>
   )
 }
