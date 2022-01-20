@@ -84,7 +84,7 @@ top: 31%;
 .fadedCoin{
   position: absolute;
   right: 13%;
-  top: 87%;
+  top:92%;
 }
 
 .leftStars{
@@ -96,7 +96,7 @@ left: -0.2%;
 
 .boredapeImageDiv{
 
-  margin: 0em -2.3em;
+  margin: -0.2em -2em;
   //width: 70em;
   padding: 0.5em 2.5em;
 display: flex;
@@ -120,7 +120,7 @@ font-size: 1em;
 
 
 .purchasedText{
-  margin-left: 2.3em;
+  margin-left: 2.5em;
   font-weight: 400;
   font-size: 1em;
   line-height: 24px;
@@ -129,6 +129,7 @@ font-size: 1em;
 .bold{
   font-weight: 700;
   text-decoration: underline;
+ margin-right: 0.15em;
 
 }
 .bold2{

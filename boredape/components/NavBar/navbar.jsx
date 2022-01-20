@@ -13,7 +13,7 @@ export default function NavBar() {
 
 
            <div className={navstyles.menu}>
-               <img className={navstyles.changeBackground} src="https://res.cloudinary.com/seunsanyaa/image/upload/v1642532947/Frame_75_wnvhyf.png"/>
+               <img width={150} className={navstyles.changeBackground} src="https://res.cloudinary.com/seunsanyaa/image/upload/v1642532947/Frame_75_wnvhyf.png"/>
 
                <a className={navstyles.menuLink}>
                    Buy An Ape
